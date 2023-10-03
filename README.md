@@ -17,6 +17,19 @@ In addition, key measures including Total number of customers, Total Assigned sc
 
 Fourth step: A dynamic dashboard was created showing the 4 customer tiers with the aid of a bar chart, which is a great choice for visualizing data with less than 5 categories. A donut chart was also utilized to show the percentage of customers by city.
 
+## INSIGHTS
+
+- **Tier 1 priority service & Tier 2 priority service** are the most valuable customer segments (based on data subscribed and bonus usage). Customers under this category contribute significantly to the company’s revenue. This category makes up 65% of the company’s customers.
+
+- Customers under the **Tier 4 priority marketing + incentives** segment are at-risk and most likely to churn. This category makes up about 23% of the company’s customer base.
+
+## RECOMMENDATIONS
+
+- Premium data packages (e.g., discounted data plans, priority customer support, access to exclusive content) can be offered to customers under **Tier 1 & Tier 2 priority service**.
+
+- Retention strategies should be implemented for customers under the **Tier 4 priority marketing + incentives** segment. A larger part of the marketing resources should be targeted towards customers under this category.
+
+  
 ## ABC Telecomms Dashboard Showing Customer Tiers
 ![ABC DASHBOARD-1](https://user-images.githubusercontent.com/115559534/199286385-9512d81d-fbbd-4e5c-962e-951b3c7d4957.png)
 
