@@ -29,7 +29,11 @@ Fourth step: A dynamic dashboard was created showing the 4 customer tiers with t
 
 ## RECOMMENDATIONS
 
-- Premium data packages (e.g., discounted data plans, priority customer support, access to exclusive content) can be offered to customers under **Tier 1 & Tier 2 priority service**.
+- Focus on **Tier 1 & Tier 2 customers**. These customers are the company's most valuable assets, so prioritize them. Provide them with excellent customer service, personalized offers, and incentives to keep them satisfied and loyal. Upsell and cross-sell additional services to these customers, as they are more likely to spend more with the company.
 
-- Retention strategies should be implemented for customers under the **Tier 4 priority marketing + incentives** segment. A larger part of the marketing resources should be targeted towards customers under this category.
+- **Tier 4** customers are at-risk and more likely to churn. Implement targeted retention strategies to try to retain them.
+
+- Develop marketing campaigns that are tailored to the needs and preferences of each segment. For **Tier 1 and Tier 2** customers, focus on quality and premium services. For **Tier 4** customers, focus on addressing pain points and offering incentives to buy data more frequently. 
+
+- Implement a rewards program that encourages **Tier 1 and Tier 2** customers to stay loyal. This could include exclusive discounts, early access to new services, or bonus data. For **Tier 4** customers, consider offering incentives to keep them from churning, such as discounts or special offers.
 
